@@ -19,4 +19,7 @@ Say goodbye to the hassle of downloading YouTube videos or music! 💔 With 'You
 
 Building 'YouDown' with Streamlit was a breeze, and I am super excited to share it with you all! The app is designed to be efficient, user-friendly, and, most importantly, incredibly useful for all your YouTube downloading needs! 💪
 
+Project Video:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/faisal-mehmood-awan-4771a8233)
 
